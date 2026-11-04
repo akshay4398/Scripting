@@ -5,5 +5,5 @@ echo "I am learning how to create a pull request in git and github"
 echo "I am learning how to merge a pull request in git and github"
 echo "I am learning how to resolve merge conflicts in git and github"
 echo "I am learning how to create a new branch in git and github"
-echo "New line sample test"
-
+echo "New line sample test2"
+echo "New line sample test2"
